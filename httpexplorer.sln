@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "httpexplorer", "httpexplorer\httpexplorer.vdproj", "{31381C34-522D-4B43-A364-C3229D663B54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31381C34-522D-4B43-A364-C3229D663B54}.Debug|Default.ActiveCfg = Debug
+		{31381C34-522D-4B43-A364-C3229D663B54}.Release|Default.ActiveCfg = Release
+		{31381C34-522D-4B43-A364-C3229D663B54}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B848555-F6B1-456A-BEB1-A43CED549859}
+	EndGlobalSection
+EndGlobal
