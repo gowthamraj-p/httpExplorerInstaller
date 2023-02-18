@@ -2,6 +2,8 @@
 
 Hi all,
 
+httpExplorer app will help to open local files through html link in windows file explorer rather than in browser.
+
 this repo is httpexplorerinstaller. for httpexplorer app click below link.
 
 <a>https://github.com/gowthamraj-p/httpExplorer</a>
